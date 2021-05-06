@@ -2,6 +2,10 @@
 
 仿掘金移动端app下拉加载动效.
 
+<p align='center'>
+    <img src="https://github.com/KevinZhang19870314/juejin_loading_effect/blob/main/lib/juejin_loading.gif" width="187" heght="333" />
+</p>
+
 ## 背景 & 介绍
 
 一直在刷掘金app，每次都看到下拉加载的动效，于是想到是不是可以仿一个看看效果。
